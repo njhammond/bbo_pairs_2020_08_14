@@ -1,0 +1,11 @@
+--2020-08-15 22:56:18--  http://webutil.bridgebase.com/v2/tview.php?t=8929-1597424623
+Resolving webutil.bridgebase.com (webutil.bridgebase.com)... 169.54.210.132
+Connecting to webutil.bridgebase.com (webutil.bridgebase.com)|169.54.210.132|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/home/nicolas/git/bbo/pairs/pairs/2020/xx/1597424623-8929/Results.htm’
+
+     0K .......... ......                                       561K=0.03s
+
+2020-08-15 22:56:19 (561 KB/s) - ‘/home/nicolas/git/bbo/pairs/pairs/2020/xx/1597424623-8929/Results.htm’ saved [16765]
+
